@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Aishwarya Singh</title>
-    <link>https://aishsingh.github.io/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Aishwarya Singh</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Aug 2024 15:42:17 +1000</lastBuildDate>
-    <atom:link href="https://aishsingh.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Mypost</title>
-      <link>https://aishsingh.github.io/posts/mypost/</link>
-      <pubDate>Fri, 23 Aug 2024 15:42:17 +1000</pubDate>
-      <guid>https://aishsingh.github.io/posts/mypost/</guid>
-      <description></description>
+      <title>My First Blog Post</title>
+      <link>http://localhost:1313/posts/mypost/</link>
+      <pubDate>Sun, 12 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/mypost/</guid>
+      <description>This is just a temporary test post.</description>
     </item>
   </channel>
 </rss>
