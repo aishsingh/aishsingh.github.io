@@ -6,14 +6,28 @@
     <description>Recent content in Home on Aishwarya Singh</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Sep 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Blog Post</title>
-      <link>http://localhost:1313/posts/mypost/</link>
-      <pubDate>Sun, 12 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/mypost/</guid>
-      <description>This is just a temporary test post.</description>
+      <title>Bit Manipulation</title>
+      <link>http://localhost:1313/posts/bit-manipulation/</link>
+      <pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/bit-manipulation/</guid>
+      <description>Coding techniques used to manipulate integers by their bits.</description>
+    </item>
+    <item>
+      <title>Sorting Algorithms</title>
+      <link>http://localhost:1313/posts/sortingalgos/</link>
+      <pubDate>Fri, 23 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/sortingalgos/</guid>
+      <description>Overview of common sorting algorithms and their pros/cons.</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>My name is Aish.&#xA;I currently live and grew up in Melbourne 🇦🇺.&#xA;For the past 6 years I&amp;rsquo;ve worked as a Software Engineer building safety critical devices for the medical and automotive industries. Prior to those jobs I tutored Object-Oriented Programming at Swinburne University of Technology while simultaniously completing a Bachelor of Computer Science degree.&#xA;In my spare time you can find me tinkering in my own personal projects, building up my problem solving skills on LeetCode, and also listening to lots and lots of music.</description>
     </item>
   </channel>
 </rss>
